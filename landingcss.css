@@ -1,6 +1,51 @@
 
-.header{
-    background-color: #1F2937
+body{
+    margin: 0;
+}
+
+.header,.placeholder{
+    background-color: #1F2937;
+    display:flex;
+    font-family: "Roboto";
+    justify-content: space-between;
+    padding: 48px;
+
+    
+}
+
+.logo{
+    display:flex;
+    align-items: center;
+    font-family: "Roboto";
+    color:#F9FAF8;
+    font-size: 24px;
+    
+}
+
+.links{
+    display:flex;
+    justify-content: space-between;
+    gap:48px;
+    font-size: 18px;
+    color:#E5E7EB
+
+}
+
+
+.placeholder{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.signup{
+    background-color: red;
+}
+
+.image1{
+    background-color: gray;
+    width: 300px;
+    height: 150px;
 }
 
 .information{
