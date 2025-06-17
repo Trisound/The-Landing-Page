@@ -27,7 +27,9 @@ body{
     justify-content: space-between;
     gap:48px;
     font-size: 18px;
-    color:#E5E7EB
+    color:#E5E7EB;
+    
+
 
 }
 
@@ -38,8 +40,9 @@ body{
     
 }
 
-.signup{
-    background-color: red;
+.intro{
+    font-size: 18px;
+    color:#E5E7EB;
 }
 
 .image1{
