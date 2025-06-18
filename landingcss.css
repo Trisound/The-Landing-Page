@@ -22,15 +22,13 @@ body{
     
 }
 
-.links{
+.links, h3{
     display:flex;
     justify-content: space-between;
     gap:48px;
     font-size: 18px;
     color:#E5E7EB;
     
-
-
 }
 
 
@@ -40,10 +38,13 @@ body{
     
 }
 
-.intro{
-    font-size: 18px;
-    color:#E5E7EB;
+
+h2{
+    font-size: 48px;
+    color:#F9FAF8;
+    font-weight: 900;
 }
+
 
 .image1{
     background-color: gray;
@@ -51,9 +52,6 @@ body{
     height: 150px;
 }
 
-.information{
-
-}
 
 .quote{
     background-color:#E5E7EB
