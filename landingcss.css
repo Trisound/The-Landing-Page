@@ -74,6 +74,38 @@ p{
     color:#E5E7EB;
 }
 
+.information{
+    padding-bottom: 64px;
+}
+.container{
+    display:flex;
+    justify-content: space-evenly;
+}
+h4{
+    font-size: 36px;
+    text-align: center;
+    color: #1F2937;
+    font-weight:900;
+}
+.box{
+    height:100px;
+    border: 2px solid lightblue;
+    border-radius: 8px;
+}
+
 .quote{
     background-color:#E5E7EB
+}
+
+h5{
+    font-size: 36px;
+    font-style: italic;
+    color:#1F2937;
+    text-align: center;
+    padding:8px;
+}
+h6{
+    font-weight: bold;
+    text-align:right;
+
 }
