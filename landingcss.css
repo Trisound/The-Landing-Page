@@ -68,6 +68,11 @@ button{
     height: 200px;
 }
 
+p{
+    margin-top: 6em;
+    text-align: center;
+    color:#E5E7EB;
+}
 
 .quote{
     background-color:#E5E7EB
