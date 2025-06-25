@@ -105,7 +105,24 @@ h5{
     padding:8px;
 }
 h6{
+    font-size:24px;
     font-weight: bold;
     text-align:right;
 
 }
+
+.call{
+   display:flex
+   margin:48px;
+}
+
+.signup{
+    display:flex;
+    flex-direction: column;
+    padding:24px;
+    height:150px;
+    width:350px;
+    background-color: #3882F6;
+
+}
+
